@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bioGraphy">  Note that updating a library or applications compileSdkVersion (which
+      allows newer APIs to be used) can be done separately from updating
+      targetSdkVersion (which opts the app in to new runtime behavior) and
+      minSdkVersion (which determines which devices the app can be installed Note that updating a library or applications compileSdkVersion (which
+      allows newer APIs to be used) can be done separately from updating
+      targetSdkVersion (which opts the app in to new runtime behavior) and
+      minSdkVersion (which determines which devices the app can be installed Note that updating a library or applications compileSdkVersion (which
+      allows newer APIs to be used) can be done separately from updating
+      targetSdkVersion (which opts the app in to new runtime behavior) and
+      minSdkVersion (which determines which devices the app can be installed Note that updating a library or applications compileSdkVersion (which
+      allows newer APIs to be used) can be done separately from updating
+      targetSdkVersion (which opts the app in to new runtime behavior) and
+      minSdkVersion (which determines which devices the app can be installed
+      on).</string>
+</resources>
