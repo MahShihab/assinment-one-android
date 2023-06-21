@@ -12,40 +12,13 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-    <RadioGroup
-        android:id="@+id/choices_radio_group"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/choices_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginLeft="24dp"
-        android:layout_marginRight="24dp"
-        android:orientation="vertical">
-
-        <RadioButton
-            android:id="@+id/choice1_radio_button"
-            android:text="12"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <RadioButton
-            android:id="@+id/choice2_radio_button"
-            android:text="10"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <RadioButton
-            android:id="@+id/choice3_radio_button"
-            android:text="11"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <RadioButton
-            android:id="@+id/choice4_radio_button"
-            android:text="13"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-    </RadioGroup>
+        android:layout_marginRight="24dp" />
 
     <Button
         android:id="@+id/submit_button"
